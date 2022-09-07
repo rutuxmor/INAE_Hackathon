@@ -8,6 +8,25 @@ Pre-requisites:
   2. A set of pre-installed python modules with a stable internet connection to establish a successful API call request/response to Wikipedia in order to get the              information/story of the given Indian toy as per the command given by the end user.
 
 
+#################### Set Up ###########################
+
+The code is give module-wise, you need to follow the below steps to set up the environment in your machine:
+
+1. Install the required packages
+2. Import the packages
+3. Execute alexaSpeak function
+4. Execute the implementation function ("from implementation.py") file
+5. Execute the main function
+
+********************** NOTE ******************************
+
+We are open to suggestions and improvements in our code
+
+Thanks!
+
+
+
+
 Below are the packages that need to be pre-installed as mentoned in the repoort
 
 #installing the required packages for speech input and conversion of seech into meaningful text
