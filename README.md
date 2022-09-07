@@ -14,9 +14,10 @@ The code is give module-wise, you need to follow the below steps to set up the e
 
 1. Install the required packages
 2. Import the packages
-3. Execute alexaSpeak function
-4. Execute the implementation function ("from implementation.py") file
-5. Execute the main function
+3. Execute the invokeDevice function (from "invokeDevice.py" file)
+4. Execute alexaSpeak function (from "alexaSpeak.py" file)
+5. Execute the implementation function ("from implementation.py" file)
+6. Execute the main function (from "main.py" file)
 
 ********************** NOTE ******************************
 
