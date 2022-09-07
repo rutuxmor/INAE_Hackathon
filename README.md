@@ -28,9 +28,9 @@ Thanks!
 
 
 
-Below are the packages that need to be pre-installed as mentoned in the repoort
+Below are the packages that need to be pre-installed as mentioned in the repoort
 
-#installing the required packages for speech input and conversion of seech into meaningful text
+#installing the required packages for speech input and conversion of speech into meaningful text
 
 pip install speechrecognition
 pip install pyaudio
