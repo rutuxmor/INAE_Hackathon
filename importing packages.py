@@ -19,5 +19,5 @@ import wikipedia
 #importing requests package to send HTTP requests using Python
 import requests
 
-# importing thi library for parsing HTML webpage
+# importing this library for parsing HTML webpage
 from bs4 import BeautifulSoup
