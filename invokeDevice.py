@@ -22,7 +22,7 @@ def invokeDevice():
                 audio_captured = r.listen(input_source)
              
                 # Using google to recognize audio
-                invoking_Text = r.recognize_google(audio_captured, language="en-IN")
+                invoking_Text = r.recognize_google(audio_captured, language="hi-In")
                 invoking_Text = invoking_Text.lower()
                 #print(invoking_Text)
  
